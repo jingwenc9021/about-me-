@@ -1,12 +1,12 @@
 # about-me-
 
-My name is  **_Jingwenchen_** 
+###  **_Jingwenchen_** 
 
 My email is ```Jingwenc9021@hstat.org```
 
 My school is  [hstat](https://www.hstat.org/)
 
-_schedule_ 
+## _Schedule_ 
   ---
 1)college writing
 
