@@ -6,7 +6,7 @@ My email is ```Jingwenc9021@hstat.org```
 
 My school is  [hstat](https://www.hstat.org/)
 
-## _Schedule_ 
+# _Schedule_ 
   ---
 1)college writing
 
