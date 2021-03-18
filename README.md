@@ -1,6 +1,6 @@
 # about-me-
 
-### <br> **_Jingwenchen_** <br>
+### <br> **_Jingwen chen_** <br>
 
 My email is ```Jingwenc9021@hstat.org```
 
