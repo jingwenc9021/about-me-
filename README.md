@@ -1,6 +1,6 @@
 # about-me-
 
-My name is  **_## Jingwenchen_** 
+My name is  **_# Jingwenchen_** 
 
 My email is ```Jingwenc9021@hstat.org```
 
@@ -20,4 +20,4 @@ _schedule_
 
 6)yoga
 
-7)English
+ *English
