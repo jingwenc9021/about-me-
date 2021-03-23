@@ -22,4 +22,4 @@ My school is  [hstat](https://www.hstat.org/)
 
  * English
 
-reviewed by Rajab Begim 
+reviewed by `Rajab Begim` 
